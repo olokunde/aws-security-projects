@@ -1,2 +1,21 @@
-# aws-security-projects
-Hands-on AWS security projects — IAM, EC2, encryption, threat detection
+# AWS Security Projects
+
+Hands-on cloud security projects completed as part of the NextWork
+Security Engineer roadmap. Each project builds a real-world piece of
+an AWS security skillset — from account hardening to identity and
+access management, encryption, and threat detection.
+
+## Projects
+
+| # | Project | Key Skills |
+|---|---------|-----------|
+| 01 | AWS Account Setup & Hardening | Root MFA, billing alerts, Free Tier |
+| 02 | Cloud Security with IAM | IAM policies, least privilege, EC2, tag-based access |
+
+_More projects added as the roadmap progresses._
+
+## About Me
+Building toward a Security Engineering role, combining an IT audit
+background with hands-on AWS implementation.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/olaoluwa-olokunde-4779672bb)
