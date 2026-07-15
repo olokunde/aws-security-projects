@@ -9,8 +9,8 @@ access management, encryption, and threat detection.
 
 | # | Project | Key Skills |
 |---|---------|-----------|
-| 01 | AWS Account Setup & Hardening | Root MFA, billing alerts, Free Tier |
-| 02 | Cloud Security with IAM | IAM policies, least privilege, EC2, tag-based access |
+| 01 | [AWS Account Setup & Hardening](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-account-setup) | Root MFA, billing alerts, Free Tier |
+| 02 | [Cloud Security with IAM](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-iam) | IAM policies, least privilege, tag-based access |
 
 _More projects added as the roadmap progresses._
 
