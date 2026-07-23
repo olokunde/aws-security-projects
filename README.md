@@ -12,6 +12,7 @@ access management, encryption, and threat detection.
 | 01 | [AWS Account Setup & Hardening](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-account-setup) | Root MFA, billing alerts, Free Tier |
 | 02 | [Cloud Security with IAM](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-iam) | IAM policies, least privilege, tag-based access |
 | 03 | [Encrypt Data with AWS KMS](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-kms) | KMS, encryption at rest, key policies, DynamoDB |
+| 04 | [Threat Detection with Amazon GuardDuty](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-guardduty) | GuardDuty, threat detection, SQL injection, command injection, malware protection |
 
 _More projects added as the roadmap progresses._
 
