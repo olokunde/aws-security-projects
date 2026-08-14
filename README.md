@@ -15,6 +15,7 @@ access management, encryption, and threat detection.
 | 04 | [Threat Detection with Amazon GuardDuty](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-guardduty) | GuardDuty, threat detection, SQL injection, command injection, malware protection |
 | 05 | [Secure Secrets with AWS Secrets Manager](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-secretsmanager) | AWS Secrets Manager, IAM, GitHub Secret Scanning, Git Rebase, Boto3 |
 | 06 | [Build a Security Monitoring System](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-monitoring) | Secrets Manager, CloudTrail, CloudWatch, SNS |
+| 07 | [Build a Virtual Private Cloud](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-networks-vpc) | VPC, subnets, internet gateway, CIDR, AWS CLI |
 
 _More projects added as the roadmap progresses._
 
