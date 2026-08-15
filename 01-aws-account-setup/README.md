@@ -4,7 +4,7 @@
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-account-setup)
 
-**Author:** Olaoluwa Olayinka Olokunde 
+**Author:** Olaoluwa Olayinka Olokunde
 **Email:** olokunde.o@gmail.com
 
 ---
