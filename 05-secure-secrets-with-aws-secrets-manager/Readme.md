@@ -4,7 +4,7 @@
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-security-secretsmanager)
 
-**Author:** olokunde.o@gmail.com  
+**Author:** Olaoluwa Olayinka Olokunde   
 **Email:** olokunde.o@gmail.com
 
 ---
