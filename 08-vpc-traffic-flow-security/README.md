@@ -4,7 +4,7 @@
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-networks-security)
 
-**Author:** olokunde.o@gmail.com  
+**Author:** Olaoluwa Olayinka Olokunde  
 **Email:** olokunde.o@gmail.com
 
 ---
