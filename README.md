@@ -16,6 +16,7 @@ access management, encryption, and threat detection.
 | 05 | [Secure Secrets with AWS Secrets Manager](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-secretsmanager) | AWS Secrets Manager, IAM, GitHub Secret Scanning, Git Rebase, Boto3 |
 | 06 | [Build a Security Monitoring System](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-security-monitoring) | Secrets Manager, CloudTrail, CloudWatch, SNS |
 | 07 | [Build a Virtual Private Cloud](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-networks-vpc) | VPC, subnets, internet gateway, CIDR, AWS CLI |
+| 08 | [VPC Traffic Flow and Security](https://nextwork.ai/determined_purple_witty_eagle/docs/aws-networks-security) | Route tables, security groups, network ACLs, traffic flow |
 
 _More projects added as the roadmap progresses._
 
